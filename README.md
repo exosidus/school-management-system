@@ -112,19 +112,19 @@ Currently under active development and continuous improvement.
 > Screenshots
 
 > Login Page
-![Login](assets/mainloginsystem.png)
+![mainloginsystem](assets/mainloginsystem.png)
 
 > Dashboard
 ![Dashboard](assets/dashboard.png)
 
 > Student Management
-![Students](assets/studentsmanagement.png)
+![Studentsmanagement](assets/studentsmanagement.png)
 
 > teachers management 
-![teachers](teachersmanagement.png)
+![teachersmanagement](teachersmanagement.png)
  
 > Reports
 ![Reports](assets/reports.png)
 
 > grades
-![grading](assets/gradingsystem.png)
+![gradingsystem](assets/gradingsystem.png)
