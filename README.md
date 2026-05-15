@@ -121,7 +121,7 @@ Currently under active development and continuous improvement.
 ![Studentsmanagement](assets/studentsmanagement.png)
 
 > teachers management 
-![teachersmanagement](teachersmanagement.png)
+![teachersmanagement](assets/teachersmanagement.png)
  
 > Reports
 ![Reports](assets/reports.png)
