@@ -6,7 +6,6 @@ This project provides an organized environment for managing students, teachers, 
 It was developed to demonstrate practical software engineering skills in backend development, database structuring, and full-stack web application design.
 
 > Key Features
-
 > Administration
 - Manage school-wide settings
 - Account management for users
